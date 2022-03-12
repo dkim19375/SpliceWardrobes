@@ -1,0 +1,19 @@
+name: SpliceWardrobes
+version: ${pluginVersion}
+description: Wardrobes
+author: dkim19375
+main: me.dkim19375.splicewardrobes.SpliceWardrobes
+api-version: 1.17
+
+softdepend:
+  - PlaceholderAPI
+
+commands:
+  splicewardrobes:
+    aliases:
+      - wardrobes
+      - swardrobes
+      - wardrobe
+      - swardrobe
+      - splicewardrobe
+    description: Main command
