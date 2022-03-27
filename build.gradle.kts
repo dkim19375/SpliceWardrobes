@@ -53,7 +53,7 @@ dependencies {
     implementation("me.mattstudios:triumph-config:1.0.5-SNAPSHOT")
     implementation("io.github.dkim19375:item-move-detection-lib:1.1.8")
 
-    implementation("io.github.dkim19375:dkim-bukkit-core:3.3.35") {
+    implementation("io.github.dkim19375:dkim-bukkit-core:3.3.36") {
         exclude(group = "org.jetbrains.kotlin")
         exclude(group = "org.jetbrains.kotlinx")
     }
