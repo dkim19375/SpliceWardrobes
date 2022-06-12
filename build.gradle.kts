@@ -63,7 +63,7 @@ dependencies {
     implementation("dev.triumphteam:triumph-gui:3.1.2") {
         excludeAdventure()
     }
-    implementation("net.kyori:adventure-platform-bukkit:4.1.0") {
+    implementation("net.kyori:adventure-platform-bukkit:4.1.1") {
         excludeAdventure()
     }
 }
