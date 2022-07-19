@@ -60,7 +60,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:$KT_VER") {
         exclude(module = "annotations")
     }
-    implementation("dev.triumphteam:triumph-gui:3.1.2") {
+    implementation("dev.triumphteam:triumph-gui:3.1.3") {
         excludeAdventure()
     }
     implementation("net.kyori:adventure-platform-bukkit:4.1.1") {
